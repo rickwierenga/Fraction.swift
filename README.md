@@ -1,3 +1,3 @@
 # Fraction.swift
 
-A description of this package.
+Simple `Fraction` struct in Swift.
